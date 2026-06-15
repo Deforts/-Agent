@@ -1,0 +1,4 @@
+pandas
+zhipuai
+python-dotenv
+rich
